@@ -1,0 +1,35 @@
+@media screen{
+    body{
+	    background-color: rgb(26,32,94);
+		color: white;
+		font-family: arial;
+		font-size: 14px;
+	}
+	#homelink{
+	    color: white;
+		font-size: 20px;
+		text-decoration: none;
+	}
+	#favorite{
+	    color: white;
+		font-size: 20px;
+		text-decoration: none;
+		margin-left: 25%;
+		font-weight: bold;
+	}
+	#überschrift{
+	    margin-left: 25%;
+		font-size: 48px;
+    }
+	#tabelle.boxed{
+	   margin-left: 5%;
+    }
+	#button{
+	    margin-left: 105%;
+	}
+	#bild{
+	    position: absolute; 
+		top: 5%; 
+ 		right: 5%; 
+    } 
+}
